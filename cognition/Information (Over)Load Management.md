@@ -1,10 +1,5 @@
 # Information (Over)Load Management
 
-## Introduction
-
-## Table of content
-
-
 ### Maintain an “Inbox Zero”
 
 The Inbox must be empty by default.
@@ -68,18 +63,85 @@ Alternating between focus (without multitasking) and daydreaming (free thoughts)
 
 * **For people in high demand**, a good way to avoid being swamped all the time follows the same principle than Inbox Zero, if a request takes less than 2 minutes, then it can be done or rejected immediately, otherwise it is scheduled.
 
-* **Pre-scheduled availability**: you can make yourself available specifically for other people's needs at a given time and place of the week, with 4x30 minutes slots - maybe even bookable online). :-p That’s what some politicians do, and it works really well apparently.
+* **Pre-scheduled availability**: 
+
+You can make yourself available specifically for other people's needs at a given time and place of the week, with 4x30 minutes slots - maybe even bookable online). :-p That’s what some politicians do, and it works really well apparently.
 
 * **Typical roles of social media**:
   * Networking - Meh, overrated. Even LinkedIn is not that useful if you’re doing something meaningful.
   * News & Information gathering - See intelligence.
   * Group discussions, Events, Communication, Commenting & Posting - Find alternatives and/or centralize in a collaborative space to divide the load between team members instead of multiplying it by the number of team members. Avoid at all costs direct interactions with Twitter or Facebook in particular. Only access through syndicated, purposeful, collaborative, time-constrained interfaces if possible.
 
+### Intelligence on a personal level
 
-## Consolidate all social media, including Rocket.Chat like activities to appointed, scheduled times. No compulsive checks of feeds or e-mail
-## Intelligence on a personal level
-## Learn less, quality over quantity
-## Intelligence as a network
-## Invest in people for your intelligence
-## Bottom line:
-## Remove as much information hogs as possible!
+* **Learn less, quality over quantity**
+
+* **In a time of information overload…**
+
+Making sense and working on data, people and knowledge connections takes priority over acquiring more information
+It uplifts people in contact with these works, hence attracting and increasing the overall level of knowledge of people, expertise and interactions around us, allowing for passive intelligence gathering, by opposition to cognitive load intensive scrolling.
+
+* **Information cleansing** Reduce the number of feeds, documents, experts that you follow. It is good to wipe all non-critical pieces of information you stored and to start again on a blank state. Brings comfort and a new perspective. The alternative would be unwieldy to say the least.
+
+* **Adapt the load according to stress level**, which requires self-awareness of the cognitive state. Keeping the load optimal can be hard because we don’t acknowledge our needed recovery time - as in “This looks amazing, I feel really good right now, I see no reason to postpone reading it.” or “I feel stressed, but this needs to be done or it will be bad. I need to be responsible.”
+
+* **How much information / emotions / disturbances did you process the last hours / days / weeks ?** That’s what should determine the current level of effort, modulo current-mental-state-adjusted evaluation of cognitive loads or risks to come (which are typically over-inflated about the future and under-evaluated for the present).
+
+* **Information as a resource**
+As curious and perfectionist people, we tend to learn much, much more than what’s actually required. Most of the time, for a given need, we already have more than the required knowledge to work when dabbling into discovery. It is not a good or bad thing, it is just a matter of prioritization and distribution of efforts - which also depends on our environmental factors, and individual preferences.
+
+* **Be aware of the timing of information flows**:
+ * Real-time: Should be as limited as possible.
+ * Daily: The daily information hour should focus on emptying the global buffer, following the Inbox Zero distribution rules. If done well, it should be mainly dealing with fresh news.
+ * Weekly to monthly: Compiled, curated, analyzed, packaged information typically falls here. This is where P2P intelligence falls short usually (they have too much informations in the real-time and global buffer zones).
+ * Global buffer: Anything that is planned to be read, feeds, etc. In case of overload, remove any non-essential items. Rule of thumb: 50 % should be gone.
+
+### Intelligence as a network
+
+* **Invest in people for your intelligence**
+
+* **Training someone else**, or asking for help pays ten times more than investing in a tool or a personal process. Look for existing sources.
+
+* **Focus on knowledge production and transmission**
+Especially live and collaborative, but in a format that allows parallel thinking with brief exchange points between agents. You need to be able to work and think alone, but with available people to share it with, on a common goal or inquiry.
+
+* **Take an agent-centric & agile approach**
+Having a personal, community searchable space that centralizes everything we do. Carefully select the agents you closely collaborate with to keep them limited in number (ideally less than 15 in total, all subjects confounded).
+
+* **Invest in technology**: Hootsuite, Zapier and other tools are very valuable for a small intelligence community. They are well worth the higher pricing tiers that offer true collaborative & mutualisation features.
+
+* **When humans are involved**, speed and attention required to remove as much crap as possible are the key metrics to minimize. Information discrimination efficiency is paramount to exhaustivity, including automation of discrimination (no time and attention, it doesn’t even appear in my visual field). 
+
+* **When computers are involved**, it is the opposite, quantity is king.
+
+* **In a connectivist approach** (Hello Jeremy!) the interrelations of the agents (humans, digital, physical) might prove to be a determinant factor for overall efficiency of the network. In other words, ask for help dealing with information !
+
+Here’s an example of a process for a current backlog of information:
+1000 articles, 50 books, 10 documents, 30 websites, 5 discussions
+Quick discrimination, remove 50 %
+Quick team curation and distribution
+Personal curations (Inbox Zero style)
+Sync personal curations with Slow team curation (based on topics of interest & schedules)
+Example: Weekly-monthly content consolidation by a team member is scheduled in others’ calendars. Content consolidation formats & tools includes: paper.li, scoop.it, circulate.it, newsletters, masterclasses, original content writing, etc.
+See Focus on knowledge production and transmission.
+
+Follow best practices in:
+Processing information
+Dispatching information
+Collection & discovery
+Supporting others
+Curation, reference, research
+External analysis
+Collaborative intelligence networks
+Management & intelligence prioritization
+Producing original content & documenting
+Outreach
+
+...are tough, albeit interesting subjects to work on. We should definitely assemble a community around that and research, with scientists and all. :-p
+
+### Bottom line:
+Remove as much information hogs as possible!
+
+No hesitations, if something happens to be important, it is still better to remove something by mistake than being in a constant state of information overload (burnout, frustration, inefficient work in general).
+
+
