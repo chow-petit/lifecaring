@@ -1,2 +1,3 @@
-# lifecaring
+# Lifecaring
+
 Lifecaring means caring and protecting Life under all forms ; without having preconceived limitations in time, scope or objectives. The concept of Life here is understood as in “living systems”, which are a subset of Complex Adaptive Systems, and can include ideas, humans, society, AI, ecosystems, bacterias…
