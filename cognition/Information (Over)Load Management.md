@@ -159,32 +159,10 @@ It is the opposite, quantity is king.
 
 (Hello Jeremy!) the interrelations of the agents (humans, digital, physical) might prove to be a determinant factor for overall efficiency of the network. In other words, ask for help dealing with information !
 
-Here’s an example of a process for a current backlog of information:
-1000 articles, 50 books, 10 documents, 30 websites, 5 discussions
-Quick discrimination, remove 50 %
-Quick team curation and distribution
-Personal curations (Inbox Zero style)
-Sync personal curations with Slow team curation (based on topics of interest & schedules)
-Example: Weekly-monthly content consolidation by a team member is scheduled in others’ calendars. Content consolidation formats & tools includes: paper.li, scoop.it, circulate.it, newsletters, masterclasses, original content writing, etc.
-See Focus on knowledge production and transmission.
-
-Follow best practices in:
-Processing information
-Dispatching information
-Collection & discovery
-Supporting others
-Curation, reference, research
-External analysis
-Collaborative intelligence networks
-Management & intelligence prioritization
-Producing original content & documenting
-Outreach
-
-...are tough, albeit interesting subjects to work on. We should definitely assemble a community around that and research, with scientists and all. :-p
-
 ### Bottom line:
+
 Remove as much information hogs as possible!
 
-No hesitations, if something happens to be important, it is still better to remove something by mistake than being in a constant state of information overload (burnout, frustration, inefficient work in general).
+No hesitations, if something happens to be important, it is still better to remove something by mistake than being in a constant state of information overload that will generate burnout, frustration and inefficient work in general.
 
 
