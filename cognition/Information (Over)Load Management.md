@@ -64,9 +64,7 @@ Alternating between focus (without multitasking) and daydreaming (free thoughts)
 
 Eat healthy. Exercise regularly. Check eyesight and/or glasses. Get adequate rest. Stay in touch with your friends and family.
 
-* **Have a “rules of thumb” for things**  
-
-Some examples:
+* **Have a “rules of thumb” for things, in example:**
   * 2 meetings (1 at home, 1 at theirs) + 1 deliverable (even tiny) is often enough to evaluate collaboration capacities with someone
   * 2.5 people complaining about something (ponderate by the strength of their reaction) is the threshold for considering it as something beyond the individuals.
   * In case of suspicion of doubt, anger, frustration, tiredness, cognitive overload, negative emotion, just love someone immediately.
@@ -120,12 +118,11 @@ That’s what should determine the current level of effort, modulo current-menta
 
 As curious and perfectionist people, we tend to learn much, much more than what’s actually required. Most of the time, for a given need, we already have more than the required knowledge to work when dabbling into discovery. It is not a good or bad thing, it is just a matter of prioritization and distribution of efforts - which also depends on our environmental factors, and individual preferences.
 
-* **Be aware of the timing of information flows**:
- 
- * Real-time: Should be as limited as possible.
- * Daily: The daily information hour should focus on emptying the global buffer, following the Inbox Zero distribution rules. If done well, it should be mainly dealing with fresh news.
- * Weekly to monthly: Compiled, curated, analyzed, packaged information typically falls here. This is where P2P intelligence falls short usually (they have too much informations in the real-time and global buffer zones).
- * Global buffer: Anything that is planned to be read, feeds, etc. In case of overload, remove any non-essential items. Rule of thumb: 50 % should be gone.
+* **Be aware of the timing of information flows**
+  * Real-time: Should be as limited as possible.
+  * Daily: The daily information hour should focus on emptying the global buffer, following the Inbox Zero distribution rules. If done well, it should be mainly dealing with fresh news.
+  * Weekly to monthly: Compiled, curated, analyzed, packaged information typically falls here. This is where P2P intelligence falls short usually (they have too much informations in the real-time and global buffer zones).
+  * Global buffer: Anything that is planned to be read, feeds, etc. In case of overload, remove any non-essential items. Rule of thumb: 50 % should be gone.
 
 ### Intelligence as a network
 
